@@ -11,5 +11,5 @@ _"Start doing what's necessary, then what's possible, and suddenly you're doing 
     💻 Node, ReactJS, React Native, Typescript, Elixir
     ✨ Learning is continuous and there will always be a next level
 ---    
-<span style="color:red">oi</span>[#Let'sCode!](https://app.rocketseat.com.br/me/lservo)
+[#Let'sCode!](https://app.rocketseat.com.br/me/lservo)
 [#Let'sGoConnect!](https://app.rocketseat.com.br/me/lservo)
