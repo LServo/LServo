@@ -5,6 +5,8 @@
     🚀 Currently on RocketSeat's Ultimate! 
     💻 Node, ReactJS, React Native, Typescript, Elixir
     ✨ Learning is continuous and there will always be a next level
+    
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
  
 _"Start doing what's necessary, then what's possible, and suddenly you're doing the impossible."_
 
