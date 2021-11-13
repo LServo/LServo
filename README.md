@@ -10,6 +10,6 @@ _"Start doing what's necessary, then what's possible, and suddenly you're doing 
     🚀 Currently on RocketSeat's Ultimate! 
     💻 Node, ReactJS, React Native, Typescript, Elixir
     ✨ Learning is continuous and there will always be a next level
-    ---    
+---    
 <span style="color:purple">[#Let'sCode!](https://app.rocketseat.com.br/me/lservo)
 [#Let'sGoConnect!](https://app.rocketseat.com.br/me/lservo)</span>
