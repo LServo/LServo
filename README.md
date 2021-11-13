@@ -2,7 +2,7 @@
 **Hey! Welcome to my profile! 👋**
 
 
-[![Lucas Servo | Telegram!](https://img.shields.io/badge/-LServo-white?style=flat-square&logo=Telegram&logoColor=blue "Lucas Servo's Telegram")](https://t.me/LServo) [![Lucas Servo | RocketSeat!](https://img.shields.io/badge/-lservo-6633cc?style=flat-square&logo=Rocketseat&logoColor=white "Lucas Servo's RocketSeat Account")](https://app.rocketseat.com.br/me/lservo) [![Lucas Servo | Linkedin!](https://img.shields.io/badge/-Lucas%20Servo-6633cc?style=flat-square&logo=Linkedin&logoColor=white "Lucas Servo's Linkedin") ](https://www.linkedin.com/in/lservo) [![Lucas Servo | Email!](https://img.shields.io/badge/-l.servo@hotmail.com-6633cc?style=flat-square&logo=Microsoft&logoColor=white "Lucas Servo's E-mail")](mailto:l.servo@hotmail.com)
+[![Lucas Servo | Telegram!](https://img.shields.io/badge/-LServo-white?style=flat-square&logo=Telegram&logoColor=blue "Lucas Servo's Telegram")](https://t.me/LServo) [![Lucas Servo | RocketSeat!](https://img.shields.io/badge/-lservo-6633cc?style=flat-square&logo=Rocket&logoColor=white "Lucas Servo's RocketSeat Account")](https://app.rocketseat.com.br/me/lservo) [![Lucas Servo | Linkedin!](https://img.shields.io/badge/-Lucas%20Servo-6633cc?style=flat-square&logo=Linkedin&logoColor=white "Lucas Servo's Linkedin") ](https://www.linkedin.com/in/lservo) [![Lucas Servo | Email!](https://img.shields.io/badge/-l.servo@hotmail.com-6633cc?style=flat-square&logo=Microsoft&logoColor=white "Lucas Servo's E-mail")](mailto:l.servo@hotmail.com)
 
 _"Start doing what's necessary, then what's possible, and suddenly you're doing the impossible."_
 
