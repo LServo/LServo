@@ -11,9 +11,6 @@ _"Start doing what's necessary, then what's possible, and suddenly you're doing 
     💻 Node, ReactJS, React Native, Typescript, Elixir
     ✨ Learning is continuous and there will always be a next level
 
-[#Let'sCode!](https://app.rocketseat.com.br/me/lservo)
-[#Let'sGoConnect!](https://app.rocketseat.com.br/me/lservo)
-
 ---    
 
 [<div align="center" width="100%"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=LServo&show_icons=true&bg_color=white&text_color=7159c1&title_color=7159c1&icon_color=7159c1&border_color=7159c1" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LServo&layout=compact&text_color=7159c1&title_color=7159c1&icon_color=7159c1&border_color=7159c1" /><br><img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=LServo&text_color=7159c1&title_color=7159c1&icon_color=7159c1&border_color=7159c1" /></div>](https://app.rocketseat.com.br/me/lservo) 
