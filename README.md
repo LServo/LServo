@@ -15,4 +15,4 @@ _"Start doing what's necessary, then what's possible, and suddenly you're doing 
 [#Let'sGoConnect!](https://app.rocketseat.com.br/me/lservo)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LServo&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LServo)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LServo)](https://github.com/LServo/github-readme-stats)
