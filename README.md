@@ -14,5 +14,6 @@ _"Start doing what's necessary, then what's possible, and suddenly you're doing 
 [#Let'sCode!](https://app.rocketseat.com.br/me/lservo)
 [#Let'sGoConnect!](https://app.rocketseat.com.br/me/lservo)
 
-[![LServo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LServo&show_icons=true&bg_color=white&text_color=7159c1&title_color=7159c1&icon_color=7159c1&border_color=7159c1)](https://github.com/LServo/github-readme-stats)
+[![LServo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LServo&show_icons=true&bg_color=white&text_color=7159c1&title_color=7159c1&icon_color=7159c1&border_color=7159c1)](https://app.rocketseat.com.br/me/lservo) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LServo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
