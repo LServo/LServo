@@ -6,10 +6,12 @@
 
 _"Start doing what's necessary, then what's possible, and suddenly you're doing the impossible."_
 
-    💻 I'm Lucas, GoStack 11 Student
+    💻 I'm Lucas, GoStack 14 Student
     🚀 Currently on RocketSeat's Ultimate! 
     💻 Node, ReactJS, React Native, Typescript, Elixir
     ✨ Learning is continuous and there will always be a next level
 ---    
 [#Let'sCode!](https://app.rocketseat.com.br/me/lservo)
 [#Let'sGoConnect!](https://app.rocketseat.com.br/me/lservo)
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LServo&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
