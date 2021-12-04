@@ -1,5 +1,5 @@
 
-**Hey! Welcome to my profile! 👋** ![visitors](https://visitor-badge.glitch.me/badge?page_id=LServo.LServo&right_color=#66ccff)
+**Hey! Welcome to my profile! 👋** ![visitors](https://visitor-badge.glitch.me/badge?page_id=LServo.LServo&right_color=red)
 
 
 [![Lucas Servo | Telegram!](https://img.shields.io/badge/-LServo-white?style=flat-square&logo=Telegram&logoColor=blue "Lucas Servo's Telegram")](https://t.me/LServo) [![Lucas Servo | RocketSeat!](https://img.shields.io/badge/-lservo-7159c1?style=flat-square&logo=Github&logoColor=white "Lucas Servo's RocketSeat Account")](https://app.rocketseat.com.br/me/lservo) [![Lucas Servo | Linkedin!](https://img.shields.io/badge/-Lucas%20Servo-7159c1?style=flat-square&logo=Linkedin&logoColor=white "Lucas Servo's Linkedin") ](https://www.linkedin.com/in/lservo) [![Lucas Servo | Email!](https://img.shields.io/badge/-l.servo@hotmail.com-7159c1?style=flat-square&logo=Microsoft&logoColor=white "Lucas Servo's E-mail")](mailto:l.servo@hotmail.com)
