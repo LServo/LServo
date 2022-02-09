@@ -12,6 +12,8 @@ _"Start doing what's necessary, then what's possible, and suddenly you're doing 
     ✨ Learning is continuous and there will always be a next level
 
 ---    
-
+<div align="center" style="display: inline_block">
+<img src="https://badge42.herokuapp.com/api/stats/lservo?cursus=Basecamp&darkmode=true&privacyEmail=true"/>
+</div>
 [<div align="center" width="100%"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=LServo&show_icons=true&bg_color=white&text_color=7159c1&title_color=7159c1&icon_color=7159c1&border_color=7159c1" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LServo&layout=compact&text_color=7159c1&title_color=7159c1&icon_color=7159c1&border_color=7159c1" />](https://app.rocketseat.com.br/me/lservo) 
 
